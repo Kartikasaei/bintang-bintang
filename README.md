@@ -1,2 +1,2 @@
-barisan bintang-bintang
+looping pola
 
